@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# But keep JavaScript files
+!*.js
+
+# Also ignore system files
+*.log
+*.tmp
+*.bak
+*.DS_Store
+Thumbs.db
+
+# Ignore folders like 1_files, images, etc.
+*_files/
